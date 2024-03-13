@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 92
+    bar [31, 92, 18]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 31
+    "2" : 92
+    "3" : 18
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 31    | [31][p-1]   | 21,99      |
+| 2   | PRABOWO GIBRAN | 92    | [92][p-2]   | 65,25      |
+| 3   | GANJAR MAHFUD  | 18    | [18][p-3]   | 12,77      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/07--rokan-hilir/sub/14-pekaitan/sub/2005-teluk-bano-ii/sub/003-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/07--rokan-hilir/sub/14-pekaitan/sub/2005-teluk-bano-ii/sub/003-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/07--rokan-hilir/sub/14-pekaitan/sub/2005-teluk-bano-ii/sub/003-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/effc/pemilu/ppwp/14/07/14/20/05/1407142005003-20240215-015705--f84ed848-9d5a-4d34-a96b-54c400069565.jpg
+
+https://sirekap-obj-formc.kpu.go.id/effc/pemilu/ppwp/14/07/14/20/05/1407142005003-20240215-020045--fbddc0e7-e9ad-4b89-ac7c-c0b8412b1d1c.jpg
+
+https://sirekap-obj-formc.kpu.go.id/effc/pemilu/ppwp/14/07/14/20/05/1407142005003-20240215-020314--bc51b91d-89eb-4d0e-9188-ec38ba4741ac.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-16 14:00:34 |
+
+
+

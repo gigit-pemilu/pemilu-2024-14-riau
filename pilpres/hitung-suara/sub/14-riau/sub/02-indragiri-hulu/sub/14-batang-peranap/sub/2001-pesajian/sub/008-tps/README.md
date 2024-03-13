@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 40
+    bar [5, 40, 25]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 5
+    "2" : 40
+    "3" : 25
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 5     | [5][p-1]    | 7,14       |
+| 2   | PRABOWO GIBRAN | 40    | [40][p-2]   | 57,14      |
+| 3   | GANJAR MAHFUD  | 25    | [25][p-3]   | 35,71      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/02-indragiri-hulu/sub/14-batang-peranap/sub/2001-pesajian/sub/008-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/02-indragiri-hulu/sub/14-batang-peranap/sub/2001-pesajian/sub/008-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/02-indragiri-hulu/sub/14-batang-peranap/sub/2001-pesajian/sub/008-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/d635/pemilu/ppwp/14/02/14/20/01/1402142001008-20240222-214309--eed4550c-a886-491b-b848-2dc08b1bb2db.jpg
+
+https://sirekap-obj-formc.kpu.go.id/d635/pemilu/ppwp/14/02/14/20/01/1402142001008-20240222-214305--1ee6e78a-295d-4978-84b4-4b4e6d57c7b6.jpg
+
+https://sirekap-obj-formc.kpu.go.id/d635/pemilu/ppwp/14/02/14/20/01/1402142001008-20240222-214505--d95d1ce5-7ebb-4275-9105-d0ab36866338.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-25 11:00:00 |
+
+
+
