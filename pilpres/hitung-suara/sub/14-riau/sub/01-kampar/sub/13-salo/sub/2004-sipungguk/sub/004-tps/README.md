@@ -4,7 +4,7 @@
 
 ```mermaid
 xychart-beta
-    title "Perolehan Suara Nasional"
+    title "Perolehan Suara TPS"
     x-axis [01, 02, 03]
     y-axis "Suara" 0 --> 126
     bar [126, 96, 1]
@@ -27,9 +27,9 @@ pie showData
 | 3   | GANJAR MAHFUD  | 1     | [1][p-3]    | 0,45       |
 
 
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/01-kampar/sub/13-salo/sub/2004-sipungguk/sub/004-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/01-kampar/sub/13-salo/sub/2004-sipungguk/sub/004-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/01-kampar/sub/13-salo/sub/2004-sipungguk/sub/004-tps/sub/paslon-3.txt
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024-14-riau/blob/main/pilpres/hitung-suara/sub/14-riau/sub/01-kampar/sub/13-salo/sub/2004-sipungguk/sub/004-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024-14-riau/blob/main/pilpres/hitung-suara/sub/14-riau/sub/01-kampar/sub/13-salo/sub/2004-sipungguk/sub/004-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024-14-riau/blob/main/pilpres/hitung-suara/sub/14-riau/sub/01-kampar/sub/13-salo/sub/2004-sipungguk/sub/004-tps/sub/paslon-3.txt
 
 ## Foto C Plano
 

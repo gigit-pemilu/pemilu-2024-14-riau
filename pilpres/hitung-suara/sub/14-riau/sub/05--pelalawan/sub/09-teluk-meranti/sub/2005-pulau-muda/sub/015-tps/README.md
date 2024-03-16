@@ -4,7 +4,7 @@
 
 ```mermaid
 xychart-beta
-    title "Perolehan Suara Nasional"
+    title "Perolehan Suara TPS"
     x-axis [01, 02, 03]
     y-axis "Suara" 0 --> 91
     bar [75, 91, 6]
@@ -27,9 +27,9 @@ pie showData
 | 3   | GANJAR MAHFUD  | 6     | [6][p-3]    | 3,49       |
 
 
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/05--pelalawan/sub/09-teluk-meranti/sub/2005-pulau-muda/sub/015-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/05--pelalawan/sub/09-teluk-meranti/sub/2005-pulau-muda/sub/015-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/05--pelalawan/sub/09-teluk-meranti/sub/2005-pulau-muda/sub/015-tps/sub/paslon-3.txt
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024-14-riau/blob/main/pilpres/hitung-suara/sub/14-riau/sub/05--pelalawan/sub/09-teluk-meranti/sub/2005-pulau-muda/sub/015-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024-14-riau/blob/main/pilpres/hitung-suara/sub/14-riau/sub/05--pelalawan/sub/09-teluk-meranti/sub/2005-pulau-muda/sub/015-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024-14-riau/blob/main/pilpres/hitung-suara/sub/14-riau/sub/05--pelalawan/sub/09-teluk-meranti/sub/2005-pulau-muda/sub/015-tps/sub/paslon-3.txt
 
 ## Foto C Plano
 

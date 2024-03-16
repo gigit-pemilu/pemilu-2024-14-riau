@@ -1,30 +1,5 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara Nasional"
-    x-axis []
-    y-axis "Suara" 0 --> 0
-    bar []
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-```
-
-## Tabel
-
-| No. | Nama Paslon | Suara | Suara (raw) | Persentase |
-|:--- |:----------- | -----:| -----------:| ----------:|
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/09-kuantan-singingi/sub/08-singingi-hilir/sub/2008-sumber-jaya/sub/006-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/09-kuantan-singingi/sub/08-singingi-hilir/sub/2008-sumber-jaya/sub/006-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/09-kuantan-singingi/sub/08-singingi-hilir/sub/2008-sumber-jaya/sub/006-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
 https://sirekap-obj-formc.kpu.go.id/0155/pemilu/ppwp/14/09/08/20/08/1409082008006-20240216-200845--60ad7422-ee0c-4f86-967d-b8afe5e3f522.jpg

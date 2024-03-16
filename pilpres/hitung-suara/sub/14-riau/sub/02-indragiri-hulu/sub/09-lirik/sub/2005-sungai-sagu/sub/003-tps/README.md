@@ -1,30 +1,5 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara Nasional"
-    x-axis []
-    y-axis "Suara" 0 --> 0
-    bar []
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-```
-
-## Tabel
-
-| No. | Nama Paslon | Suara | Suara (raw) | Persentase |
-|:--- |:----------- | -----:| -----------:| ----------:|
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/02-indragiri-hulu/sub/09-lirik/sub/2005-sungai-sagu/sub/003-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/02-indragiri-hulu/sub/09-lirik/sub/2005-sungai-sagu/sub/003-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/02-indragiri-hulu/sub/09-lirik/sub/2005-sungai-sagu/sub/003-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
 https://sirekap-obj-formc.kpu.go.id/17fa/pemilu/ppwp/14/02/09/20/05/1402092005003-20240217-214055--886a2021-2d9d-4f55-a983-29a09f31c7a5.jpg

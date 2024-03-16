@@ -1,30 +1,5 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara Nasional"
-    x-axis []
-    y-axis "Suara" 0 --> 0
-    bar []
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-```
-
-## Tabel
-
-| No. | Nama Paslon | Suara | Suara (raw) | Persentase |
-|:--- |:----------- | -----:| -----------:| ----------:|
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/07--rokan-hilir/sub/03-tanah-putih/sub/1010-banjar-xii/sub/001-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/07--rokan-hilir/sub/03-tanah-putih/sub/1010-banjar-xii/sub/001-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/14-riau/sub/07--rokan-hilir/sub/03-tanah-putih/sub/1010-banjar-xii/sub/001-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
 https://sirekap-obj-formc.kpu.go.id/1fcd/pemilu/ppwp/14/07/03/10/10/1407031010001-20240222-143845--f5708c82-46b3-44b9-a254-579bafd835a8.jpg
